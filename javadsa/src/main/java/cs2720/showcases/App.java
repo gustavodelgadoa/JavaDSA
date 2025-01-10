@@ -5,25 +5,12 @@ package cs2720.showcases;
  *
  */
 public class App {
-    private int count;
+    // private static int count;
 
     public static void main(String[] args) {
         System.out.println("Hello Universe!");
         System.out.println("This is the second line. ");
-    }
-
-    /**
-     * Constructor example.
-     */
-    public void counter() {
-        count = 0;
-    }
-
-    /**
-     * Accessor method example. Returns count.
-     */
-    public int getCount() {
-        return count;
+        // System.out.println("Count works: " + count);
     }
 
 }
