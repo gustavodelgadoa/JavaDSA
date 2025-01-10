@@ -13,4 +13,24 @@ public class App {
         // System.out.println("Count works: " + count);
     }
 
+    private int count;
+
+    /**
+     * Constructor example.
+     */
+    public void counter() {
+        count = 0;
+    }
+
+    /**
+     * Accessor method example. Returns count.
+     */
+    public int getCount() {
+        return count;
+    }
+
+    /**
+     * Update method example.
+     */
+
 }
