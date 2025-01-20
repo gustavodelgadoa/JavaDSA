@@ -74,7 +74,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>3.1.0</version>
         <configuration>
-          <mainClass>cs2720.showcases.App</mainClass>
+          <mainClass>cs2720.showcases.GameEntry</mainClass>
         </configuration>
         </plugin>
       </plugins>
