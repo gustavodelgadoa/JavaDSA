@@ -49,9 +49,4 @@ public class Scoreboard {
         numEntries--;
         return tempEntry;
     } // remove
-
-
-
-
-
 } // Scoreboard
